@@ -1,8 +1,4 @@
-﻿// <copyright file="VarBindSequence.cs" company="Carl Zeiss"> 
-// Copyright Carl Zeiss 2008, 2022 All rights reserved.
-// </copyright>
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;

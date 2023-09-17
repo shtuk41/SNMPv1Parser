@@ -1,2 +1,2 @@
 # SNMPv1Parser
-SNMP v1 Parser used for monitoring HPE UPS
+SNMP v1 Parser used for monitoring
